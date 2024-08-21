@@ -1,0 +1,3 @@
+[submodule "visual-spatial-reasoning"]
+	path = visual-spatial-reasoning
+	url = git@github.com:cambridgeltl/visual-spatial-reasoning.git
